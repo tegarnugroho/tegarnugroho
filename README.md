@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **skripsimu/skripsimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![skripsimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripsimu)](https://github.com/skripsimu/github-readme-stats)
+[![skripsimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripsimu&theme=light&show_icons=true)](https://github.com/skripsimu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact)](https://github.com/skripsimu/github-readme-stats)
+
+
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/skripsimu/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
