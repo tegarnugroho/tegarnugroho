@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/skripsimu/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0e75b6"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/skripsimu/mohit01-beep?logo=markdown&label=LAST+UPDATE&color=0e75b6&style=flat">
