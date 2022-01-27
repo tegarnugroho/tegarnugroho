@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <!--
@@ -15,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-[![skripsimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=skripsimu&theme=graywhite&show_icons=true)](https://github-readme-stats.vercel.app/api?username=skripsimu&theme=light&show_icons=true)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=skripsimu&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="skripsimu's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact&theme=graywhite)](https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact)
-
-
-
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0e75b6"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/skripsimu/skripsimu?logo=markdown&label=LAST+UPDATE&color=0e75b6&style=flat">
+<a><img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0e75b6"/></a>
+<a><img alt="Last Commit" src="https://img.shields.io/github/last-commit/skripsimu/skripsimu?logo=markdown&label=LAST+UPDATE&color=0e75b6&style=flat"></a>
