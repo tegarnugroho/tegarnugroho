@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-| <a href="https://github.com/skripsimu/github-readme-stats"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=skripsimu&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="skripsimu's GitHub stats" /></a> | <a href="https://github.com/skripsimu/github-readme-stats"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| <a href="https://github.com/skripsimu"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=skripsimu&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="skripsimu's GitHub stats" /></a> | <a href="https://github.com/skripsimu"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skripsimu&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a><img alt="Visitors" src="https://komarev.com/ghpvc/?username=skripsimu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0e75b6"/></a>
