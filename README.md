@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## Tech Skills I learned:
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 <br /><br />
 <a><img alt="Visitors" src="https://komarev.com/ghpvc/?username=tegarnugroho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0e75b6"/></a>
 <a><img alt="Last Commit" src="https://img.shields.io/github/last-commit/tegarnugroho/tegarnugroho?logo=markdown&label=LAST+UPDATE&color=0e75b6&style=flat"></a>
