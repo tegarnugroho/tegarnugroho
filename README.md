@@ -2,17 +2,21 @@
 <a><img alt="Last Commit" src="https://img.shields.io/github/last-commit/tegarnugroho/tegarnugroho?logo=markdown&label=LAST+UPDATE&color=0e75b6&style=flat"></a>
 
 ```dart
-void main() {
-  final me = FlutterEngineer(
-    name: 'Tegar Nugroho',
-    location: 'Indonesia',
-  );
+class Tegar extends FlutterDeveloper {
+  const Tegar({
+    this.company = 'Wolkk',
+    this.location = 'Indonesia',
+  });
 
-  while (me.isAwake) {
-    me.buildApps();
-    me.createPackages();
-    me.drinkCoffee();
-    me.learnSomethingNew();
-  }
+  final String company;
+  final String location;
+
+  final List<String> expertise = const [
+    'Flutter',
+    'Dart',
+    'Clean Architecture',
+    'Performance Optimization',
+    'Open Source',
+  ];
 }
 ```
